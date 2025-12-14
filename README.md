@@ -12,8 +12,6 @@ A modern, responsive portfolio website showcasing AI/ML and software development
 
 ## 💻 Projects Showcased
 
-- **GuitarAI** - iOS app for real-time chord recognition
-- **ChordAI Web** - Browser-based chord detection
 - **SAM 3D** - 3D model generation on Vertex AI
 
 ## 🛠️ Tech Stack
